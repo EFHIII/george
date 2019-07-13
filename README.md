@@ -1,2 +1,2 @@
 # george
-redirects to TDP
+redirects to [TDP](https://efhiii.github.io/george/)
